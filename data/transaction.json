@@ -1,0 +1,4 @@
+[
+{"timestamp":"026-01-04 18:10:19","accountNumber":"ACC0001001","type":"ATM_DEPOSIT","amount":2000,"balance":2000},
+{"timestamp":"2026-01-04 18:10:30","accountNumber":"ACC0001001","type":"ATM_WITHDRAWAL","amount":120,"balance":1880}
+]
