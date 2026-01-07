@@ -30,6 +30,7 @@ private:
     string cardPin;
     double balance;
     bool hasCard; 
+    
 public:
     User();
     User(string username, string password, string name, string accountType);
@@ -683,6 +684,7 @@ void BankingSystem::showUserMenu() {
     cout << "6. Transaction History\n";
     cout << "7. Manage ATM Card\n";
     cout << "8. Logout\n";
+    cout << "9. Loan Services\n";
 }
 void BankingSystem::deposit() {
     if (!currentUser) return;
