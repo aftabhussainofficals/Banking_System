@@ -1,4 +1,5 @@
 [
-{"accountNumber":"ACC0001001","username":"aftab","password":"12345","name":"Aftab Hussain","accountType":"Current","cardNumber":"","cardPin":"","hasCard":false,"balance":1188},
-{"accountNumber":"ACC0001002","username":"Aftab1","password":"54321","name":"Aftab Hussain","accountType":"Fixed","cardNumber":"","cardPin":"","hasCard":false,"balance":0}
+{"accountNumber":"ACC0001001","username":"aftab","password":"12345","name":"Aftab Hussain","accountType":"Current","cardNumber":"","cardPin":"","hasCard":false,"balance":1178},
+{"accountNumber":"ACC0001002","username":"Aftab1","password":"54321","name":"Aftab Hussain","accountType":"Fixed","cardNumber":"","cardPin":"","hasCard":false,"balance":0},
+{"accountNumber":"ACC0001003","username":"aftab_1","password":"112233","name":"Aftab Hussain","accountType":"Savings","cardNumber":"","cardPin":"","hasCard":false,"balance":10}
 ]

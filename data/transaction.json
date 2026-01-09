@@ -1,4 +1,6 @@
 [
-{"timestamp":"026-01-07 20:45:38","accountNumber":"ACC0001001","type":"DEPOSIT","amount":1200,"balance":1200},
-{"timestamp":"2026-01-07 20:45:44","accountNumber":"ACC0001001","type":"WITHDRAW","amount":12,"balance":1188}
+{"timestamp":"6-01-07 20:45:38","accountNumber":"ACC0001001","type":"DEPOSIT","amount":1200,"balance":1200},
+{"timestamp":"26-01-07 20:45:44","accountNumber":"ACC0001001","type":"WITHDRAW","amount":12,"balance":1188},
+{"timestamp":"026-01-09 10:50:51","accountNumber":"ACC0001001","type":"TRANSFER_OUT:ACC0001003","amount":10,"balance":1178},
+{"timestamp":"2026-01-09 10:50:51","accountNumber":"ACC0001003","type":"TRANSFER_IN:ACC0001001","amount":10,"balance":10}
 ]
